@@ -26,7 +26,7 @@ It focuses on:
 This is a no-code AI prototype and not a replacement for spiritual leaders or religious guidance systems.
 
 ## Project Link
-PASTE YOUR JOTFORM LINK HERE
+https://agent.jotform.com/019d2c6fc2367f028113a9f4851b51756537
 
 ## Author
 Oghenetega Okunyomih
